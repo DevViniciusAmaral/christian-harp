@@ -666,94 +666,361 @@
     ]
   },
   "33": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "Com Tua Mão Segura",
+    "author": "F.C Fanny Crosby",
+    "value": [
+      {
+        "stanza": "Com Tua mão, segura bem a minha,\nPois eu tão fraco sou, ó Salvador!\nQue não me atrevo a dar nem um só passo\nSem Teu amparo, meu Jesus Senhor!"
+      },
+      {
+        "stanza": "Com Tua mão, segura bem a minha,\nE mais e mais unido a Ti, Jesus.\nÓ traze-me, que nunca me desvie\nDe Ti, Senhor, a minha vida e luz!"
+      },
+      {
+        "stanza": "Com Tua mão, segura bem a minha,\nE, pelo mundo, alegre seguirei:\nMesmo onde as sombras caem mais escuras\nTeu rosto vendo, nada temerei."
+      },
+      {
+        "stanza": "E, se chegar à beira desse rio,\nQue Tu por mim quiseste atravessar,\nCom Tua mão segura bem a minha,\nE sobre a morte eu hei de triunfar."
+      },
+      {
+        "stanza": "Quando voltares esses céus rompendo,\nsegura bem a minha mão, Senhor,\nE, meu Jesus, ó leva-me contigo,\nPara onde eu goze Teu eterno amor."
+      }
+    ]
   },
   "34": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "Milícia De Jesus",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "Milhares de milhares em refulgente luz!\nEis os guerreiros santos, milícia de Jesus!\nCompleta, sim, completa sua longa luta aqui,\nCom Cristo, seu Senhora Rei, vão descansar ali;"
+      },
+      {
+        "stanza": "Que doces sinfonias encham a terra e o céu!\nQue coros d’aleluias rompem além do véu!\nE que chegou o dia, o dia triunfal,\nE Cristo reinará, enfim, em glória divina!."
+      },
+      {
+        "stanza": "Então, não há mais choro, nem há mais tentação;\nAs dores, as tristezas p’ra sempre fugirão,\nE os remidos todos verão seu Salvador;\nE transformados, todos, serão como o Senhor."
+      }
+    ]
   },
   "35": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "O Grande Amor",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "O grande amor de meu Jesus\nPor mim morrendo sobre a cruz,\nDa perdição, pra me salvar;\nQuem poderá contar?"
+      },
+      {
+        "choruss": "Quem pode o Seu amor contar?\nQuem pode o Seu amor contar?\nO grande amor do Salvador,\nQuem poderá contar?"
+      },
+      {
+        "stanza": "O cálice que Jesus bebeu,\nA maldição que padeceu,\nTudo por mim, p'ra me salvar,\nQuem poderá contar?"
+      },
+      {
+        "stanza": "A zombaria tão cruel,\nA cruz sangrenta, o amargo fel,\nQue Ele sofreu pra me salvar;\nQuem poderá contar?"
+      },
+      {
+        "stanza": "Incomparável Salvador!\nQuão inefável Teu amor!\nQuão impossível de sondar!\nImenso e sem par!"
+      }
+    ]
   },
   "36": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "O Exilado",
+    "author": "J.H.N Justus H. Nelson",
+    "value": [
+      {
+        "stanza": "Da linda pátria estou bem longe;\nCansado estou;\nEu tenho de Jesus saudada,\nOh, quando é que eu vou?\nPassarinhos, belas flores,\nQuerem m'encantar;\nSão vãos terrestres esplendores,\nMas contemplo o meu lar."
+      },
+      {
+        "stanza": "Jesus me deu a Sua promessa;\nMe vem buscar;\nMeu coração está com pressa,\nEu quero já voar.\nMeus pecados foram muitos,\nMui culpado sou;\nPorém, Seu sangue põe-me limpo;\nEu para pátria vou."
+      },
+      {
+        "stanza": "Qual filho de seu lar saudoso,\nEu quero ir;\nQual passarinho para o ninho,\nPra os braços Seus fugir;\nÉ fiel - Sua vinda é certa,\nQuando... Eu não sei.\nMas Ele manda estar alerta;\nDo exílio voltarei."
+      },
+      {
+        "stanza": "Sua vinda aguardo eu cantando;\nMeu lar no céu;\nSeus passos hei de ouvir soando\nAlém do escuro véu.\nPassarinhos, belas flores,\nQuerem m'encantar;\nSão vãos terrestres esplendores,\nMas contemplo o meu lar."
+      }
+    ]
   },
   "37": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "Cristo Pra Mim",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "Oh! que descanso em Jesus encontrei!\nCristo p'ra mim! Cristo p'ra mim!\nOh! que tesouros infindos achei!\nCristo p'ra mim! Cristo p'ra mim!\n'Scolham os outros o mundo pra si.\nBusquem riquezas, delicias aqui;\nEu acolherei, ó Jesus, sempre a Ti!\nCristo p'ra mim! Cristo p'ra mim!"
+      },
+      {
+        "stanza": "Quer na aflição, na doença ou na dor:\nCristo p’ra mim! Cristo p'ra mim!\nQuer na saúde, na força ou vigor;\nCristo p’ra mim! Cristo p'ra mim!\nSempre ao meu lado pra me socorrer,\nCom Seu amor, sim, e com Seu poder;\nEm cada transe pronto a me valer;\nCristo p'ra mim! Cristo p'ra mim!"
+      },
+      {
+        "stanza": "No dia amargo da perseguição:\nCristo p’ra mim! Cristo p’ra mim!\nNas duras provas e na tentação:\nCristo p’ra mim! Cristo p’ra mim!\nEle, o pecado e o mundo venceu\nQuando, por mim, no Calvário morreu;\nE da vitória a certeza me deu;\nCristo p'ra mim! Cristo p'ra mim!"
+      },
+      {
+        "stanza": "Quando no vale da morte eu entrar,\nCristo p'ra mim! Cristo p'ra mim!\nQuando perante meu Deus m’encontrar:\nCristo p'ra mim! Cristo p’ra mim!\nSó no Teu sangue confio, Senhor,\nSó no Teu sempre imutável amor!\nInda outra vez cantarei, Salvador:\nCristo p'ra mim! Cristo p'ra mim!"
+      }
+    ]
   },
   "38": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "O Senhor é Rei",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "Proclamei a todo o mundo que o Senhor é Rei!\nProclamai! Proclamai!\nProclamei que suave e doce é Sua santa lei!\nProclamai! Proclamai!\nProclamai como Ele se chama Salvador Jesus,\nComo Ele por nós morreu na ensangüentada cruz,\nComo Ele - o Cordeiro - sobre o trono está\nO Deus de toda graça, que de graça tudo dá."
+      },
+      {
+        "choruss": "Proclama! a todo o mundo\nque o Senhor é Rei!\nProclamai! Proclamai!\nProclama! que suave e doce\né Sua santa lei!\nProclamai! Proclamai!"
+      },
+      {
+        "stanza": "Proclamei que reina em graça nosso Salvador!\nProclamei! Proclamei!\nQue por cetro de Seu reino ele tem o amor!\nProclamei! Proclamei!\nAnunciei aos tristes que Ele vive lá;\nE e todos os cansados que descanso Ele dá;\nContei aos pecadores que Ele veio salvar,\nE a todos os cativos que Ele os pode libertar."
+      },
+      {
+        "stanza": "Proclamei que Ele, do céu em breve descerá!\nProclamei! Proclamei!\nE com todos os Seus santos aparecerá!\nProclamei! Proclamei!\nQue, sem demora, venham todos se render\nE, com amor, em tudo e Cristo obedecer\nQue estejam todos prontos quando Ele voltar,\nE alegres, naquele dia, “Rei dos reis”, o aclamar"
+      }
+    ]
   },
   "39": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "Alvo Mais Que a Neve",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "Bendito seja o Cordeiro,\nQue na cruz por nós padeceu!\nBendito seja o Seu sangue,\nQue por nós, ali Ele verteu!\nEis nesse sangue lavados,\nCom roupas que tão alvas são,\nOs pecadores remidos,\nQue perante seu Deus já estão!"
+      },
+      {
+        "choruss": "Alvo mais que a neve!\nAlvo mais que a neve!\nSim, nesse sangue lavado,\nMais alvo que a neve serei."
+      },
+      {
+        "stanza": "Quão espinhosa a coroa\nQue Jesus por nós suportou!\nOh! Quão profundas as chagas,\nQue nos provam quanto Ele amou!\nEis nessas chagas pureza\nPara o maior pecador!\nPois que mais alvo que a neve,\nO Teu sangue nos torna, Senhor!"
+      },
+      {
+        "stanza": "Se nós a Ti confessarmos,\nE seguirmos na Tua luz,\nTu não somente perdoas,\nPurificas também, ó Jesus;\nSim, e de todo o pecado!\nQue maravilha de amor!\nPois que mais alvo que a neve.\nO Teu sangue nos torna, Senhor."
+      }
+    ]
   },
   "40": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "A Cidade Do Bom Jesus",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "Que se diz dos teus encantos,\nÓ cidade do bom Deus!\nQue soberba te levantas\nEntre as glórias desses céus,\nDesde o mundo preparada\nPara Cristo e para os Seus."
+      },
+      {
+        "stanza": "São de jaspe adamantino\nOs teus muros, ó Sião!\nSão douradas essas ruas,\nQue os remidos pisarão!\nDe celeste luz banhadas,\nRefulgentes sempre estão!"
+      },
+      {
+        "stanza": "Pelo próprio Deus fundada\nSobre a rocha secular\nQuão seguras tuas portas!\nQuem as pode ameaçar?\nIgualmente, quão seguro\nQuem por ela lá entrar!"
+      },
+      {
+        "stanza": "Quão felizes são teus filhos,\nVendo a face do Senhor!\nNunca mais a fome sentem,\nNunca sentem mais a dor,\nCom os anjos desfrutando\nPleno gozo, paz e amor!"
+      },
+      {
+        "stanza": "O trono do Cordeiro,\nNoite e dia, sem cessar\nCorre o rio de água viva,\nPara todos saciar!\nLá com Cristo, vão teus filhos,\nSatisfeitos descansar!"
+      },
+      {
+        "stanza": "Se, por Teu amor infindo,\nDe Sião eu filho for,\nZombe o mundo e escarneça,\nNada importa, Salvador,\nPois que do Teu gozo eterno\nMesmo aqui tenho o penhor!"
+      }
+    ]
   },
   "41": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "A Cristo Coroai",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "A Cristo coroai! Que por nós encarnou,\nE Deus, o Santo Deus e Pai, aos homens revelou.\nEis Sua compaixão! Eis Sua mansidão!\nQuem vê a Cristo, vê ao Pai; sim, vê Seu coração."
+      },
+      {
+        "stanza": "A Cristo coroai! De tudo o Criador,\nO Filho do eterno Deus, do mundo, o Salvador, Jesus Emanuel,\no grande Redentor!\nEm busca dos perdidos, vem o nosso bom Pastor."
+      },
+      {
+        "stanza": "A Cristo coroai! Que sobre a cruz, ganhou\nPor nós eterna redenção e para o céu voltou!\nEle é o Rei dos reis! O Príncipe da paz!\nJesus, da morte, o vencedor, que a Salvação nos traz."
+      },
+      {
+        "stanza": "A Cristo coroai! De todos o Senhor,\nA quem a multidão dos céus aclama com fervor!\nEis o Cordeiro ali, que sobre o trono está!\nQue vive e reina lá por nós, e cedo voltará."
+      }
+    ]
   },
   "42": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "Saudai Jesus",
+    "author": "J.H.N Justus H. Nelson",
+    "value": [
+      {
+        "stanza": "Saudai o nome de Jesus!\nArcanjos, vos prostrai;\nArcanjos, vos prostrai;\nAo Filho do eterno Deus,\nCom glória, glória,\nGlória, glória,\nCom glória, coroai!"
+      },
+      {
+        "stanza": "Ó escolhida geração\nDo bom eterno Pai,\nDo bom eterno Pai;\nAo grande autor da salvação,\nCom glória, glória,\nGlória, glória,\nCom glória, coroai!"
+      },
+      {
+        "stanza": "Ó perdoados, cujo amor\nBem triunfante vai,\nBem triunfante vai,\nAo Deus Varão, Conquistador,\nCom glória, glória,\nGlória, glória,\nCom glória, coroai!"
+      },
+      {
+        "stanza": "Ó raças, tribos e nações,\nAo Rei dos reis honrai!\nAo Rei dos reis honrai!\nA quem quebrou vossos grilhões,\nCom glória, glória,\nGlória, glória,\nCom glória, coroai!"
+      }
+    ]
   },
   "43": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "Doce Lar",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "Na pátria celeste, de Deus o doce lar,\nPrepara Jesus, para os Seus, um lugar,\nPois longe do mal, do pecado e da dor,\nConsigo p'ra sempre os quer ter seu Senhor."
+      },
+      {
+        "choruss": "Oh! Doce, doce lar!\nAli, com Jesus, vou para sempre descansar"
+      },
+      {
+        "stanza": "Oh! lar sacrossanto de paz e de amor!\nAli sobre o trono, verei meu Senhor,\nO meigo Cordeiro, reinando em luz,\nPor todos louvado, bendito Jesus!"
+      },
+      {
+        "stanza": "Que puras delícias se encontram em ti!\nQue gozos supremos esperam ali,\nAqueles a quem juntos Si Deus quer ter,\nE perpetuamente os satisfazer!"
+      },
+      {
+        "stanza": "Não são seus prazeres que anseio gozar,\nMas, sim, com Jesus para sempre morar!\nJamais desonrá-Lo, jamais ofender\nA quem, p'ra ganhar-me, por mim quis morrer."
+      }
+    ]
   },
   "44": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "Oh! Que Glória!",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "Meu Senhor, que me salvaste,\nTeu, e Teu somente, eu sou;\nCom Teu sangue me saraste;\nGlória, glória a Ti Te dou."
+      },
+      {
+        "choruss": "Oh! Que glória! Oh! Que glória!\nGozo em meu coração!\nEu confio em Jesus,\nE, crendo, tenho salvação.\nOh! Que glória! Oh! Que glória!\nGozo em meu coração!\nEu confio em Jesus,\nE em Seu sangue achei perdão."
+      },
+      {
+        "stanza": "Para obter tão grande gozo,\nMuito e muito trabalhei;\nMas debalde todo esforço,\nCrendo só é que o achei."
+      },
+      {
+        "stanza": "Confiando, confiando,\nSempre e só, Jesus, em Ti,\nTeu poder e Tua graça\nPodem bem guardar-me a mim."
+      },
+      {
+        "stanza": "Consagrado ao Teu serviço,\nQuero eu pra Ti viver;\nDando sempre o testemunho\nDe Tua graça e Teu poder."
+      }
+    ]
   },
   "45": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "Redentor Onipotente",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "Redentor onipotente,\nPoderoso Salvador,\nAdvogado onisciente\nÉ Jesus, meu bom Senhor."
+      },
+      {
+        "choruss": "Ó Amante da minh’alma,\nTu és tudo para mim!\nTudo quanto eu careço\nAcho, Jesus, só em Ti."
+      },
+      {
+        "stanza": "Um abrigo sempre perto,\nPara todo o pecador;\nUm refúgio sempre aberto,\nÉ Jesus. meu Salvador."
+      },
+      {
+        "stanza": "Água viva! pão da vida!\nDoce sombra no calor,\nQue ao descanso nos convida.\nÉ Jesus, meu Salvador!"
+      },
+      {
+        "stanza": "Ó Cordeiro imaculado,\nQue Seu sangue derramou,\nMeus pecados expiando,\nA minh'alma resgatou."
+      },
+      {
+        "stanza": "Fundamento inabalável!\nRocha firme e secular!\nInfalível! Imutável!\nQuem mo poderá tirar?"
+      },
+      {
+        "stanza": "O caminho que, seguro,\nSempre para o céu conduz,\nQuem a Cristo pronto segue,\nQuem tomar a sua cruz."
+      }
+    ]
   },
   "46": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "Um Pendão Real",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "Um pendão real vos entregou o Rei\nA vós, soldados Seus;\nCorajosos, pois, em tudo o defendei,\nMarchando para os céus."
+      },
+      {
+        "choruss": "Com valor! Sem temor!\nPor Cristo prontos a sofrer!\nBem alto erguei o Seu pendão,\nFirmes sempre, até morrer!"
+      },
+      {
+        "stanza": "Eis formados já os densos batalhões\nDo grande usurpador!\nDeclarei-vos, hoje, bravos campeões;\nAvante sem temor."
+      },
+      {
+        "stanza": "Quem receio sente no seu coração,\nE fraco se mostrar,\nNão receberá o eterno galardão,\nQue Cristo tem pra dar."
+      },
+      {
+        "stanza": "Pois sejamos, todos, a Jesus leais,\nE a Seu real pendão;\nOs que na batalha sempre são fiéis,\nCom Ele reinarão."
+      }
+    ]
   },
   "47": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "Rocha Eterna",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "Rocha eterna, meu Jesus,\nQue, por mim, na amarga cruz,\nFoste morto eu meu lugar,\nMorto para me salvar;\nEm Ti quero me esconder,\nSó Tu podes me valer."
+      },
+      {
+        "stanza": "Minhas obras, eu bem sei,\nNada valem ante a lei;\nSe eu chorasse sem cessar.\nTrabalhasse sem cansar,\nTudo inútil, tudo em vão!\nSó em Ti há salvação."
+      },
+      {
+        "stanza": "Nada trago a Ti, Senhor!\n'Spero só em Teu amor!\nTodo indigno e imundo sou,\nEis, sem Ti, perdido estou!\nNo Teu sangue, ó Salvador,\nLava um pobre pecador."
+      },
+      {
+        "stanza": "Quando a morte me chamar,\nE ante Ti me apresentar,\nRocha eterna, meu Jesus,\nQue por mim, na amarga cruz,\nFoste morto em meu lugar,\nQuero em Ti só me abrigar."
+      }
+    ]
   },
   "48": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "O Dia do Triunfo",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "Quando lá do céu descendo,\npara os Seus, Jesus voltar,\nE o clarim de Deus a todos proclamar,\nQue chegou o grande dia do triunfar do meu Rei,\nEu, por Sua imensa graça, lá estarei.\nQuando enfim, chegar o dia\nDo triunfar do meu Rei,\nQuando enfim, chegar o dia,\nPela graça de Jesus eu lá estarei!"
+      },
+      {
+        "choruss": "Nesse dia, quando os mortos\nhão de a voz de Cristo ouvir,\nE dos seus sepulcros hão de ressurgir,\nOs remidos reunidos, logo aclamarão seu Rei,\nE, por Sua imensa graça, lá estarei."
+      },
+      {
+        "stanza": "Pelo mundo, rejeitado foi,\nJesus, meu Salvador.\nDesprezaram, insultaram meu Senhor,\nMas, faustoso, vem o dia\ndo triunfar do meu Rei,\nE, por Sua imensa graça, lá estarei."
+      },
+      {
+        "stanza": "Em mim mesmo, nada tenho em que possa confiar,\nMas Jesus morreu na cruz p'ra me salvar;\nTão somente nEle espero, sim, e sempre esperarei.\nPois, por Sua imensa graça, lá estarei."
+      }
+    ]
   },
   "49": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "Aleluia! Já Creio",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "Deus tem prometido a salvação dar.\nA quem em Seu Filho Jesus confiar."
+      },
+      {
+        "choruss": "Aleluia! Já creio em Cr!sto Jesus.\nE salvo já estou, pelo sangue da cruz!"
+      },
+      {
+        "stanza": "Foi tal Seu amor, que me substituiu,\nE sobre o Calvário, minh’alma remiu!"
+      },
+      {
+        "stanza": "Não posso jamais desse amor duvidar;\nNão posso senão aos Seus pés me prostrar."
+      },
+      {
+        "stanza": "E, quando, na glória, eu vir meu bom Rei,\nCom todos os santos ali cantarei."
+      }
+    ]
   },
   "50": {
-    "title": "",
-    "author": "",
-    "value": []
+    "title": "Sempre Fiéis",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "Sempre fiéis, sim, a Ti, nós seremos,\nPor Tua graça, ó Cristo, Senhor!\nSempre fiéis, sim, por Ti lutaremos.\nSob Teu pendão, ó Jesus, Salvador!"
+      },
+      {
+        "choruss": "Sempre fiéis, irmãos! Irmãos sejamos.\nSempre fiéis a Cristo Jesus.\nQue até à morte, por nós prosseguiu,\nE libertou-nos, morrendo na cruz!"
+      },
+      {
+        "stanza": "Por Ti viver, ó bendito Cordeiro,\nQuem não deseja - se Te conhecer?\nQuem, que se diga cristão verdadeiro,\nPronto não 'steja, por Ti a sofrer?"
+      },
+      {
+        "stanza": "Mas, Salvador, quão fraquinhos nós somos,\nComo podemos deixar de cair,\nSe por Ti mesmo guardados não formos?\nQuem, té à morte, Te pode seguir?"
+      },
+      {
+        "choruss": "Sempre fiéis, sim, mesmo até à morte!\nSempre fiéis - Tomemos a cruz!\nEis a divisa que a nós nos pertence,\nAos libertados por Cristo Jesus!"
+      }
+    ]
   },
   "51": {
     "title": "",
