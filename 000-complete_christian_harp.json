@@ -1023,8 +1023,1356 @@
     ]
   },
   "51": {
+    "title": "Adoração Reconhecida",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "Ó minh'alma, sem demora,\nErgue-te para entoar,\nOs louvores do teu Cristo,\nE Seu nome celebrar!\nP'ra remir-te, p'ra remir-te,\nSua vida Ele quis dar!"
+      },
+      {
+        "stanza": "Minha condição tão triste\nConheceu meu Salvador;\nQue dos céus desceu à terra,\nPara ser meu Redentor!\nOh! Quão grande! Oh! Quão grande!\nE o amor de meu Senhor!"
+      },
+      {
+        "stanza": "Condenado, justamente,\nQue podia eu fazer,\nDessa pena p'ra livrar-me,\nO perdão p’ra merecer?\nO Seu sangue, o Seu sangue,\nQuis Jesus por mim verter!"
+      },
+      {
+        "stanza": "Com meus crimes carregado,\nLá na cruz, em meu lugar,\nFoi Jesus crucificado,\nA minh'alma pra salvar;\nVinde todos! Vinde todos,\nJá comigo, O adorar!"
+      }
+    ]
+  },
+  "52": {
+    "title": "Tudo Está Bem",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza": "Pelo amor de Deus bendito,\nVai tudo bem!\nSeu amor é infinito:\nTudo está bem!\nEsse amor nos tem provado.\nEm Seu Filho muito amado,\nQue, por nós, foi imolado.\nSim, sim, ‘stá bem!"
+      },
+      {
+        "stanza": "Cristo, agora, o cetro empunha:\nVai tudo bem!\nQuem morreu é quem governa:\nTudo está bem!\nSeu amor é imutável,\nSeu poder inabalável,\nSeu cuidado é incansável,\nSim, sim, ‘stá bem!"
+      },
+      {
+        "stanza": "A fé canta na tristeza:\nVai tudo bem!\nCanta, sim, e com firmeza:\nTudo está bem!\nPois se Deus é quem nos guia,\nTernamente nos vigia,\nCom bondade, noite e dia.\nSim, sim, ‘stá bem!"
+      },
+      {
+        "stanza": "Por caminhos escabrosos,\nVai tudo bem!\nOu por mares tormentosos,\nTudo está bem!\nA Jesus tudo obedece;\nSempre o mesmo permanece!\nNem um só dos Seus esquece!\nSim, sim, ‘stá bem!"
+      },
+      {
+        "stanza": "Quer na vida, quer na morte,\nVai tudo bem!\nQuão feliz é nossa sorte!\nTudo está bem!\nPelo sangue resgatados,\nE do mundo separados.\nSempre por Jesus guardados.\nSim, sim, ‘stá bem!"
+      }
+    ]
+  },
+  "53": {
+    "title": "A Esperança da Igreja",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {
+        "stanza ": "Até que volte o Salvador,\nCercando a mesa do Senhor,\nA Ceia vimos celebrar,\nDe Cristo, a morte anunciar,\nE com humilde devoção,\nRender a Deus adoração."
+      },
+      {
+        "stanza": "Até que volte o Salvador,\nAqui mostremos Seu amor;\nCom viva fá e gratidão,\nParticipemos deste pão,\nObedientes a Jesus,\nLembrando assim a Sua cruz!"
+      },
+      {
+        "stanza": "Até que volte o Salvador,\nBebendo o cálice do Senhor,\nSeu nome queremos bendizer,\nE mais e mais engrandecer,\nO sangue que Ele derramou,\nO sangue que nos resgatou!"
+      },
+      {
+        "stanza": "Se duras são as provações,\nSe fortes as perseguições,\nSe as lutas fazem-se sentir,\nE custa-nos as resistir,\nNão nos deixemos perturbar:\nSão só até Jesus voltar!"
+      },
+      {
+        "stanza": "Bem prontos para O receber,\nDevemos sempre aqui viver;\nO tempo foge, o dia vem,\nA glória esperamos além,\nPois trabalhemos, com fervor,\nAté que volte o Salvador."
+      }
+    ]
+  },
+  "54": {
+    "title": "Louvemos ao Redentor",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {"stanza": "Minh’alma, louva ao Redentor\nJesus, teu Rei, teu Salvador,\nQue sobre a cruz, em teu lugar,\nSeu sangue deu p'ra te salvar!"},
+      {"choruss": "Sim, sobre a cruz, em meu lugar,\nJesus morreu p’ra me salvar!\nSalvo e seguro nEle estou,\nPois com Seu sangue me livrou."},
+      {"stanza": "Oh! quão perdido e longe andei,\nLonge de Deus e Sua lei!\nCom terno e paciente amor\nSeguiu-me sempre, o Salvador!"},
+      {"stanza": "Bendito dia, quando, enfim,\nVi Cristo sobre a cruz, por mim!\nVencido pelo Seu amor,\nRendi-me logo ao Salvador."},
+      {"stanza": "Vem, alma aflita, descansar;\nEis Cristo pronto a perdoar!\nConfia nEle, de coração,\nE teu será o gran perdão."}
+    ]
+  },
+  "55": {
+    "title": "Mais Perto da Tua Cruz",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {"stanza": "Meu Senhor, sou Teu - Tua voz ouvi\nA chamar-me, com amor;\nMais, de Ti, mais perto eu quero estar,\nÓ bendito Salvador!"},
+      {"choruss": "Mais perto, perto da Tua cruz\nQuero estar, ó Salvador!\nMais perto, perto, perto da Tua cruz\nLeva-me, ó meu Senhor!"},
+      {"stanza": "A seguir-Te só, me consagro eu,\nConstrangido pelo amor,\nE, alegre, já me declaro Teu,\nP’ra servir-Te a Ti, Senhor."},
+      {"stanza": "Oh! Que pura e santa delicie é,\nAos Teus santos pés me achar,\nE com viva e reverente fé,\nCom meu Salvador falar."}
+    ]
+  },
+  "56": {
+    "title": "Tudo em Cristo",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {"stanza": "Dantes, trabalhava sempre com temor,\nMas descanso, agora em meu Salvador;\nDantes 'esperava'; hoje, “bem o sei”\nQue estou salvo em Cristo, meu bendito Rei."},
+      {"choruss": "Tudo! Tudo em Cristo’\nQue por mim morreu.\nTudo! Tudo em Cristo!\nCristo é todo meu."},
+      {"stanza": "Dantes, desejava bênção do Senhor;\nHoje, mais de Cristo, mais de Seu amor!\nNão somente a bênção, que tão pronto dá,\nMas Ele mesmo a fonte em quem tudo está."},
+      {"stanza": "Dantes, duvidava, era sempre 'o eu':\nHoje, bem conheço Cristo, além do véu,\nSacerdote eterno, lá por mim entrou;\nNEle estou completo, nEle aceito sou."},
+      {"stanza": "Dantes queria o mundo; hoje, é só Jesus!\nDantes, eram trevas: hoje, é plena luz;\nDantes, o receio, hoje, a doce paz,\nTudo a Cristo deixo, Ele me satisfaz."}
+    ]
+  },
+  "57": {
+    "title": "Vivifica-nos Senhor",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {"stanza": "Deus presente está conosco.\nPronto todos a salvar;\nSobre as almas sequiosas,\nQuer Sua bênção derramar."},
+      {"choruss": "Manda, ó manda as ricas chuvas\nDa Tua bênção, Salvador!\nImploramos! Esperamos!\nViviflca-nos, Senhor!"},
+      {"stanza": "Eis a Ti, Senhor, erguemos\nNossos pobres corações;\nNa Tua grande e rica graça,\nOuve as nossas petições!"},
+      {"stanza": "Torna a nossa fé mais viva,\nMais ardente o nosso amor;\nEnche-nos de santo zelo,\nDe coragem e fervor."}
+    ]
+  },
+  "58": {
+    "title": "Não Temas",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {"stanza": "'Não temas! Contigo, Eu sempre estarei!\nOh! rica promessa do bondoso Rei;\nQual estrela que brilha, lá na escuridão,\nEsta linda promessa brilha no meu coração."},
+      {"choruss": "Comigo estar! Comigo estar!\nSim, Jesus me promete,\nSempre comigo estar.\nComigo estar! Comigo estar!\nSim, Jesus me promete,\nSempre comigo estar."},
+      {"stanza": "Os lírios mais alvos, ei-los murchos estão!\nOs dias mais belos, quão depressa vão!\nCristo, o lírio dos vales, nunca mudará:\nCristo, a luz celeste, sempre comigo estará!"},
+      {"stanza": "E, se pelas águas tiver de passar,\nSeus braços eternos hão de me guardar;\nSim, mesmo no fogo. que vem me provar,\nMeu Senhor me promete sempre comigo estar!"}
+    ]
+  },
+  "59": {
+    "title": "Eu creio, Sim",
+    "author": "F.V Frida Vingren",
+    "value": [
+      {"stanza": "Te conhecer o amor sem fim,\nUm pecador fui eu;\nEm o meu pensar não houve lugar\nPara Cristo e o céu."},
+      {"choruss": "Eu creio, sim, Já creio, sim,\nJesus morreu por mim;\nPelo sangue Seu, que Ele verteu,\nLibertado fui por fim."},
+      {"stanza": "Pois, quando vi Jesus por mim,\nSofrendo sobre a cruz,\nO meu coração, sem hesitação,\nRecebeu o amor e a luz."},
+      {"stanza": "Com lágrimas, pedi perdão,\nE dor, também senti;\nVeio, então, Jesus, e a mim falou:\n'Foi por ti que Eu morri'."},
+      {"stanza": "Eu sei que Deus, no Filho Seu,\nMe vê perfeito e são;\nNão há mais temor, só bendito amor,\nGozo no meu coração."}
+    ]
+  },
+  "60": {
+    "title": "Exultação do Crente",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {"stanza": "Vinde, cantai e entoei\nLouvores a Jesus,\nQue, para nossa salvação,\nMorreu na amarga cruz,\nSeu sangue derramou, de tudo me lavou,\nMais alvo do que a neve me tornou."},
+      {"choruss": "O sangue de Jesus me lavou, me lavou!\nO sangue de Jesus me lavou, me lavou!\nAlegre cantarei louvores ao meu Rei,\nA meu Senhor Jesus, que me salvou."},
+      {"stanza": "Vinde conosco vos unir\nNa guerra contra o mal;\nE com nosso Salvador,\nEm marcha triunfal,\nA todos proclamar, Sua graça e Seu poder.\nSeu sangue derramou p’ra nos salvar!"},
+      {"stanza": "O Capitão da salvação\nÉ Cristo, o Salvador;\nO Rei dos reis, o Redentor.\nJesus, nosso Senhor;\nEle tudo vencerá, vitória nos dará;\nA glória salvos, nos conduzirá."}
+    ]
+  },
+  "61": {
+    "title": "Deus Tomará Conta de Ti",
+    "author": "P.L.M Paulo Leivas Macalão",
+    "value": [
+      {"stanza": "Em todo o tempo, irmão, o Senhor\nTomará conta de ti.\nCristo, que fala de vida e amor,\nTomará conta de ti."},
+      {"choruss": "Deus tomará conta de ti,\nDeus tomará conta de ti,\nNEle descansa, sempre aqui,\nPois tem cuidado Deus, de ti."},
+      {"stanza": "Em toda prova, irmão, o Senhor\nTomará conta de ti\nCristo, que é teu amado Pastor,\nTomará conta de ti."},
+      {"stanza": "Em toda parte, irmão, o Senhor\nTomará conta de ti.\nCristo, que nos dá poder e valor,\nTomará conta de ti."},
+      {"stanza": "Chegando a morte, irmão, o Senhor\nTomará conta de ti.\nCristo será teu fiel condutor:\nTomará conta de ti."}
+    ]
+  },
+  "62": {
+    "title": "Achei Jesus",
+    "author": "P.L.M Paulo Leivas Macalão",
+    "value": [
+      {"stanza": "Achei Jesus, achei Jesus,\nOh! gozo incomparável!\nPois salvo estou, já tenho luz\nE paz inexplicável!\nOs meus pecados expiou\nO sangue do Cordeiro;\nAs minhas trevas dissipou;\nDe Deus eu sou herdeiro!"},
+      {"stanza": "Jesus mui longe me buscou,\nPerdido me encontrava!\nE do pecado me salvou,\nO qual me atormentava,\nPertenço ao meu bom Redentor,\nAo meu melhor amigo,\nQue me livrou de toda a dor,\nE sempre está comigo."},
+      {"stanza": "Oh! Que prazer, oh! Que prazer!\nJesus é meu amado!\nDo Salvador eu quero ser\nUm servo consagrado;\nPois já me deu a salvação,\nQue nos foi prometida,\nAo meu cansado coração\nEncheu de nova vida."},
+      {"stanza": "Desejo a meu Jesus louvar,\nEm doce harmonia;\nEm Cristo, tudo fui achar,\nPois tudo carecia;\nE sem cessar, o Salvador,\nMe ama ternamente;\nO que direi a tal amor?\n'Te amo eternamente!'"}
+    ]
+  },
+  "63": {
+    "title": "Acordai, Acordai",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {"stanza": "Eis marchamos para aquele bom país,\nOnde o crente (sim, é Cristo quem o diz),\nCom seu Salvador pra sempre ali feliz,\nVai com Ele descansar.\nTrabalhemos, pois, com zelo e com vigor,\nConstrangidos pelo Seu imenso amor;\nTrabalhemos pelo nosso Salvador:\nEis que a vida vai findar!"},
+      {"choruss": "Acordai! Acordai! Despertai! Despertai!\nE cantai! Sim, cantai! O Senhor não tardará.\nEis marchamos para aquele bom país,\nOnde o crente (sim, é Cristo quem o diz),\nCom seu Salvador, p’ra sempre ali feliz,\nVai com Ele descansar."},
+      {"stanza": "Eis conosco nosso insigne Capitão,\nQue nos assegura eterna salvação!\nEis da santa fé, o invicto pavilhão!\nVamos, vamos trabalhar!\nEis avante! Nada temos que temer;\nPor Jesus, havemos sempre de vencer,\nTrabalhemos, pois até o amanhecer,\nE o trabalho aqui findar!"},
+      {"stanza": "Revestidos da couraça de Jesus,\nComo servos Seus e filhos, sim, da luz,\nGloriando-nos em Cristo e Sua cruz!\nVamos, vamos, trabalhar!\nOs perdidos, vamos com amor buscar,\nAos desesperados, vamos declarar\nQue Jesus ‘stá pronto todos a salvar!\nÓ sim, vamos trabalhar!"}
+    ]
+  },
+  "64": {
+    "title": "De Todo o Mundo: Aleluia!",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {"stanza": "De todo o mundo, eis-nos aqui\nEm Ti só confiando,\nPermanecendo em Teu amor,\nTeu reino só buscando,\nAs nossas vidas, nosso amor,\nA Ti trazemos, Salvador,\nCantando: 'Aleluia!'"},
+      {"stanza": "Viver por Ti, em Ti morrer,\nOs nossos pais miravam;\nA Tua vontade só fazer,\nEis o que desejavam.\nE nós, que somos Teus, também\nDizemos, firmes: Sim, Amém’\nE: 'Glória! Aleluia!'"},
+      {"stanza": "Ao Evangelho salvador,\nTão puro e glorioso,\nAs leis santíssimas que Tu\nNos dás, Senhor bondoso,\n'Amém! Dizemos com fervor,\nE, pelo Teu imenso amor,\nClamamos: 'Aleluia!'"},
+      {"stanza": "Sim, constrangidos pelo amor,\nPerdidos procuramos\nSalvar, - ganhar p'ra Ti, Senhor:\nEis o que ambicionamos,\nSeguindo sempre a Tua lei,\nA Ti, leais, bendito Rei,\nCantamos: 'Aleluia!'"},
+      {"stanza": "Nem o labor será em vão,\nPois eis, que glorioso,\nO dia vem, em que Jesus\nVirá vitorioso;\nE todo mundo cantará,\nE jubiloso O exaltará,\nCom: 'Amém', 'Aleluia!'"}
+    ]
+  },
+  "65": {
+    "title": "Quem Irá?",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {"stanza": "Eis os milhões, que em trevas tão medonhas\nJazem perdidos, sem o Salvador!\nQuem, quem irá as novas proclamando,\nQue Deus, em Cristo, salva o pecador?"},
+      {"choruss": "'Todo o poder o Pai me deu,\nNa terra, como lá no céu!\nIde, pois, anunciar o Evangelho,\nE eis-me convosco Sempre!'"},
+      {"stanza": "Portas abertas, eis por todo o mundo!\nCristãos, erguei-vos! Já avante anda!!\nCrentes em Cristo! Uni as vossas forças.\nDa escravidão os povos liberta!."},
+      {"stanza": "'Ó vinde a mim! A voz divina clama,\n'Vinde!' Clama! em nome de Jesus:\nPra nos salvar da maldição eterna,\nSeu sangue derramou por nós na cruz."},
+      {"stanza": "Ó Deus apressa o dia glorioso,\nEm que os remidos todos se unirão,\nE, em coro excelso, santo, jubiloso,\nP'ra todo o sempre, glória a Ti darão."}
+    ]
+  },
+  "66": {
+    "title": "Pronto a Salvar",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      {"stanza": "Todo o que crê no Filho de Deus,\nQue, p'ra nos remir, desceu dos céus;\nTodo o que, contrito, a Deus se chegar,\nJesus está pronto, agora, a salvar."},
+      {"choruss": "Sim, Jesus te chama, ó meu Irmão!\nA ti Ele oferece pleno perdão;\nSeu sangue verteu para te resgatar,\nE Ele é quem quer e pode salvar."},
+      {"stanza": "Quem, arrependido, busca perdão,\nAbrindo a Jesus o seu coração,\nA paz hoje mesmo pode gozar,\nPois Ele está pronto, agora, a salvar."}
+    ]
+  },
+  "67": {
+    "title": "Quem Quer ir Com Cristo?",
+    "author": "P.L.M Paulo Leivas Macalão",
+    "value": [
+      {"stanza": "Quem quer hoje mesmo a Jesus seguir?\nSeu pendão alçando, ao combate ir?\nQuem quer, humilhado, sempre O servir,\nE obedecê-Lo. Seu querer cumprir?"},
+      {"choruss": "Quem quer ir com Cristo, quem responderá,\nPresto, sem demora, 'eu, Senhor, irei'?\nOnde for o Mestre, tu também irás?\nQuem dirá agora: 'eu Te seguirei'?"},
+      {"stanza": "Quem seguir a Cristo quer, com mui amor,\nDando-Lhe tributo, dando-Lhe louvor;\nDe Sua nobre causa, sendo defensor,\nE na santa vinha, ser trabalhador?"},
+      {"stanza": "Queres tu segui-Lo, sem vacilação,\nE fugir dos braços da vil tentação?\nSempre confiando na Sua proteção,\nPor fé desfrutando Sua salvação."}
+    ]
+  },
+  "68": {
+    "title": "Gozo de Ter Salvação",
+    "author": "P.L.M Paulo Leivas Macalão",
+    "value": [
+      1
+      Podes receber a doce paz de Deus,
+      Crendo em Jesus, que já desceu dos céus:
+      Toma, hoje, tua cruz,
+      Vem das trevas para a luz,
+      E, assim, mui gozo te dará Jesus!
+      
+      Gozo de ter salvação,
+      Gozo no teu coração.
+      Alegria fruirás,
+      Quando desfrutares paz,
+      Que te trouxa Cristo, na cruenta cruz!
+      
+      2
+      O amor de Cristo podes conhecer,
+      Seu sustento santo podes receber:
+      Não mais só combaterás,
+      Cristo te defenderá,
+      E, assim, mui gozo te dará Jesus.
+      
+      3
+      Queres tu, de Cristo, fiel soldado ser?
+      Pelejar por Ele sempre sem temer?
+      Vem, então, ao Salvador;
+      Far-te-á mui vencedor,
+      E, assim, mui gozo te dará Jesus.
+      
+      4
+      Poderás por Cristo ser aqui uma luz,
+      Se obedeceres ao Senhor Jesus!
+      Ó vem, hoje, sem temor,
+      Aceitar o Salvador,
+      E, assim, mui gozo te dará Jesus.
+    ]
+  },
+  "69": {
+    "title": "Jesus Quebrou os Meus Grilhões",
+    "author": "P.L.M Paulo Leivas Macalão",
+    "value": [
+      1
+      Jesus quebrou os meus grilhões,
+      Com sangue me comprou;
+      A minha alma, de prisões,
+      Eterna resgatou.
+      
+      Aleluia! Cristo salva o perdido pecador!
+      Aleluia! Cristo salva o perdido com amor!
+      
+      2
+      É minha paz, e proteção,
+      Meu bom Consolador;
+      Auxílio certo na aflição,
+      Remédio para a dor,
+      
+      3
+      Nenhum perigo temerei,
+      Estando em Jesus;
+      As dores não mais sofrerei;
+      Jesus é minha luz.
+      
+      4
+      Jesus, Teu nome louvarei,
+      Com todo o coração;
+      Alegre ao mundo anunciarei
+      Tão grande salvação.
+    ]
+  },
+  "70": {
+    "title": "Cristo Vai Voltar",
+    "author": "P.L.M Paulo Leivas Macalão",
+    "value": [
+      1
+      Nós Aleluia daremos a Cristo,
+      Quando O virmos nas nuvens voltar,
+      De esplendor e de glória vestido,
+      Seus escolhidos vai arrebatar.
+      
+      Cristo Jesus logo vai voltar,
+      Vai voltar, vai voltar,
+      Seu povo vem, sim, arrebatar;
+      Jesus breve regressará!
+      
+      2
+      Eis que estou no Senhor confiando,
+      Todo o meu ser a Jesus entreguei.
+      Todos prazeres eu tenho deixado,
+      Em Jesus Cristo meu gozo achei.
+      
+      3
+      Como há de ser para ti Sua vinda?
+      Ela trará gozo ao teu coração?
+      Ou te fará padecer mais ainda?
+      Temes que só te trará maldição?
+      
+      4
+      Cristo a mim a promessa tem dado
+      Que junto dEle, também reinarei;
+      Breve será meu Jesus proclamado
+      Sobre a terra, por todos: "O Rei".
+      
+    ]
+  },
+  "71": {
+    "title": "Santo és Tu, Senhor",
+    "author": "P.L.M Paulo Leivas Macalão",
+    "value": [
+      1
+      Santo! Santo! Grande eterno Deus,
+      Com alegria nós Te louvamos.
+      Rei dos reis e Criador dos céus.
+      Humilhados Te adoramos;
+      Honra e glória em Ti miramos,
+      Pois foi rasgado, na cruz, o véu.
+      
+      Santo para sempre és Tu, Senhor
+      Nas batalhas és vencedor!
+      
+      2
+      Adorai-O terra, céu e mar;
+      Toda a Igreja, seus mensageiros,
+      Reunidos, vinde suplicar
+      Dons celestes, pois sois herdeiros
+      De Deus, e com Jesus coherdeiros
+      Da glória que jamais vai findar.
+      
+      3
+      Rei doa séc'los, grande eterno Deus!
+      Tu és veraz e incompreensível,
+      Criador da terra e dos céus;
+      És o Ancião invisível,
+      Habitas na luz inacessível,
+      Lá morarão os remidos Teus.
+      
+    ]
+  },
+  "72": {
+    "title": "Rasgou-se o Véu",
+    "author": "Desconhecido",
+    "value": [
+      1
+      Rasgou-se o véu, franca ficou a entrada:
+      Confiança temos, para ali entrar,
+      Onde a divina glória revelada,
+      Outrora, não podíamos mirar;
+      Por Cristo, entrando, nada ali tememos;
+      A glória brilha, sem nos ofuscar;
+      Na luz estamos e permanecemos
+      Firmes, tranqüilos, sem mais vacilar.
+      
+      2
+      Contigo ali, Senhor, nos encontramos,
+      Pois nos levaste já ao santo Pai,
+      Em cuja graça aceitos, sempre estamos,
+      Em cujo amor tão grande nos atrai
+      A Ti, ó Filho - em Ti, ó bem amado!
+      E só em Ti temos aceitação;
+      E quem, no sangue estando já lavado,
+      Isento está da eterna perdição.
+      
+      3
+      Ó Deus, a Ti de coração louvamos,
+      Pois de Ti nos quiseste aproximar,
+      Quando separados de Ti ficamos,
+      Por Tua lei divina, violar,
+      Teus santos seguidores, consagrados,
+      No sangue do bendito Salvador,
+      O culto e adoração Te apresentamos,
+      Porque nos chamaste, ó bom Senhor!
+      
+    ]
+  },
+  "73": {
+    "title": "Vem, Vem a Mim",
+    "author": "P.L.M Paulo Leivas Macalão",
+    "value": [
+      1
+      Pecador escuta a voz do Senhor:
+      "Se estás cansado, ó vem descansar;
+      Vem, não te detenhas; sem nenhum temor,
+      Deixa o teu fardo e vem repousar”.
+      
+      Vem, vem a Mim e descansarás;
+      Toma o Meu Jugo e Te guiarei;
+      Sou humilde, manso, dou-Te minha paz;
+      Ó vem, hoJe mesmo, e Te salvarei.
+      
+      2
+      Vem a Deus, faminto, pobre mesmo assim;
+      Há maná celeste, preparado já;
+      Grátis é a festa, p'ra ti e p'ra mim,
+      Cristo te convida, vem e cearás.
+      
+      3
+      Andas desviado, longe do redil?
+      Deixa de vagar e vem ao bom Pastor;
+      Pelos montes, vales, há perigos mil?
+      Volta ao rebanho do teu Salvador.
+      
+      4
+      Crendo tu, em Cristo, salvação terás;
+      Gozo, paz perfeita, tudo que é mister;
+      Cristo não despreza, nem rejeitará
+      Todo o que contrito a Ele vier.
+    ]
+  },
+  "74": {
+    "title": "Cristo Virá",
+    "author": "P.L.M Paulo Leivas Macalão",
+    "value": [
+      1
+      Talvez Cristo venha ao romper da aurora,
+      Com santos arcanjos, e com voz sonora;
+      Os mortos porá dos sepulcros p'ra fora;
+      Jesus, breve, vem nos buscar.
+      
+      Cristo, que há de vir, virá!
+      Ele não tardara, sim, Jesus vem;
+      Aleluia! Aleluia! Amém! Aleluia! Amém!
+      
+      2
+      Talvez voltará quando o dia feneça,
+      Ou em uma noite a luz resplandeça;
+      Irmãos, esperai que Jesus apareça!
+      Jesus, breve, vem nos buscar.
+      
+      3
+      O Seu esplendor e a glória veremos,
+      Do mundo, então, nós por fim, sairemos,
+      Assim, grande gozo no céu fruiremos;
+      Jesus, breve, vem nos buscar.
+    ]
+  },
+  "75": {
+    "title": "Em Jesus Tens a Palma da Vitória",
+    "author": "P.L.M Paulo Leivas Macalão",
+    "value": [
+      1
+      Tentado, não cedas, ceder é pecar,
+      Melhor e mais nobre, será triunfar,
+      Coragem, ó crente, domina o teu mal.
+      Deus pode livrar-te de queda fatal.
+      
+      Em Jesus tens a palma
+      Da vitória, minh’alma;
+      E também doce calma
+      Pelo sangue da cruz!
+      
+      2
+      Evita o pecado, procura agradar
+      A Deus, a quem deves no corpo exaltar;
+      Não manches teus lábios com impura voz;
+      Defende tua alma do vicio atroz.
+      
+      3
+      Sê manso e benigno, qual morto até.
+      Na rocha eterna, firma tua fé;
+      Veraz é teu dito: de Deus é teu ser?
+      T'espera a coroa, tu podes vencer.
+      
+    ]
+  },
+  "76": {
+    "title": "Vem, ó Pródigo",
+    "author": "P.L.M Paulo Leivas Macalão",
+    "value": [
+      1
+      Vem, ó pródigo, vem sem tardar, te chama Deus,
+      Ouve-O chamando, sim, chamando a ti;
+      Tu, que vagas errante escuta a voz dos céus,
+      Ó escuta a voz de amor.
+      
+      Deus espera por ti. perdido, pródigo, vem;
+      Deus espera por ti, perdido, pródigo, vem
+      
+      2
+      Com paciência e ternura te chama o Senhor,
+      Ouve-O chamando, sim, chamando a ti;
+      Vem enquanto te chama o meigo Salvador,
+      Ó escuta a voz de amor!
+      
+      3
+      Lá na casa do Pai, abundância há de pão;
+      Ouve-O chamando, sim, chamando a ti;
+      Já está pronta a mesa com toda a provisão,
+      Ó escuta a voz de amor!
+    ]
+  },
+  "77": {
+    "title": "Guarda o Contacto",
+    "author": "P.L.M Paulo Leivas Macalão",
+    "value": [
+      1
+      Queres, neste mundo, ser um vencedor?
+      Queres tu cantar nas lutas e na dor?
+      Queres ser alegre, qual bom lutador?
+      Guarda o contacto com teu Salvador!
+      
+      Guarda o contacto com teu Salvador,
+      E a nuvem do mal não te cobrirá;
+      Pela senda alegre, tu caminharás
+      Indo em contacto com teu Salvador.
+      
+      2
+      Neste mundo, vivem muitos a penar,
+      Cujos corações transbordam de pesar;
+      Dá-lhes a mensagem de amor sem par;
+      Com Deus o contacto deves tu guardar!
+      
+      3
+      Queres tu, com Deus, a comunhão obter?
+      Sua glória em ti sempre permanecer?
+      Que o mundo possa Cristo em ti ver!
+      Guarda o contacto co'o supremo Ser.
+      
+      4
+      Deixa que o Espírito implante em teu ser,
+      O amor de Cristo, divinal prazer;
+      Queres, neste mundo, todo mal vencer?
+      Guarda o contacto e terás poder!
+    ]
+  },
+  "78": {
+    "title": "Guarda o Contacto",
+    "author": "P.L.M Paulo Leivas Macalão",
+    "value": [
+      1
+      Queres, neste mundo, ser um vencedor?
+      Queres tu cantar nas lutas e na dor?
+      Queres ser alegre, qual bom lutador?
+      Guarda o contacto com teu Salvador!
+      
+      Guarda o contacto com teu Salvador,
+      E a nuvem do mal não te cobrirá;
+      Pela senda alegre, tu caminharás
+      Indo em contacto com teu Salvador.
+      
+      2
+      Neste mundo, vivem muitos a penar,
+      Cujos corações transbordam de pesar;
+      Dá-lhes a mensagem de amor sem par;
+      Com Deus o contacto deves tu guardar!
+      
+      3
+      Queres tu, com Deus, a comunhão obter?
+      Sua glória em ti sempre permanecer?
+      Que o mundo possa Cristo em ti ver!
+      Guarda o contacto co'o supremo Ser.
+      
+      4
+      Deixa que o Espírito implante em teu ser,
+      O amor de Cristo, divinal prazer;
+      Queres, neste mundo, todo mal vencer?
+      Guarda o contacto e terás poder!
+    ]
+  },
+  "79": {
+    "title": "Sua Graça Me Basta",
+    "author": "G.V Gunnar Vingren",
+    "value": [
+      1
+      Quando me sinto fraco, não tenho mais vigor,
+      Não vendo mais o brilho do sol, da clara luz;
+      Jesus está comigo, é meu Consolador;
+      Ele jamais me deixa, pois sempre me conduz.
+      
+      Sua graça me basta a mim, a mim,
+      Sus graça me basta a mim;
+      Na vida d’aquém, no céu também,
+      Sua graça me basta a mim.
+      
+      2
+      Quando a tempestade vem contra mim feroz,
+      Nas trevas navegando com minha embarcação,
+      Cristo Jesus me anima, ouço a Sua voz;
+      "Eis que estou contigo, por que temer, então?"
+      
+      3
+      Quando m’atingem os dardos do inimigo audaz,
+      Que busca com astúcia a vida me tirar,
+      Eu clamo, então, a Cristo, meu Salvador veraz,
+      O qual me dá vitória, se nEle eu confiar.
+    ]
+  },
+  "80": {
+    "title": "Cristo Te Chama",
+    "author": "P.L.M Paulo Leivas Macalão",
+    "value": [
+      1
+      Cristo te chama, a ti. pecador,
+      Te chama a ti, com voz de amor;
+      Deixa os pecados, e vem ao Senhor.
+      Cristo te chama a til
+      
+      Cristo te chama, te chama a ti!
+      Cristo te chama, ó vem pecador!
+      Cristo te chama com voz de amor.
+      Cristo te chama a ti!
+      
+      2
+      Deixa as sendas do mundo d’horror,
+      Vem a Jesus, vem com amor;
+      Cristo te salva, ó vem, pecador;
+      Cristo te chama a ti!
+      
+      3
+      Cristo glorioso virá com poder;
+      Pronto estás para ascender?
+      Só por Seu sangue tu podes vencer.
+      Cristo te chama a ti!
+      
+      4
+      A compassiva voz do Salvador,
+      Chama-te já com santo amor;
+      Vem para a fonte, á vem pecador,
+      Cristo te chama a ti!
+    ]
+  },
+  "81": {
+    "title": "Pode Salvar",
+    "author": "E.J Erik Janson",
+    "value": [
+      1
+      Somente em Cristo podemos
+      A salvação receber;
+      Novo concerto nós temos
+      Em quem na cruz quis morrer.
+      
+      Pode salvar, pode salvar,
+      Tira os pecados, e quer vos salvar,
+      Pode salvar, pode salvar,
+      Tira os pecados, e quer vos salvar.
+      
+      2
+      Quando perdoa os pecados
+      Vida nos quer conceder.
+      Fomos por sangue comprados
+      Do modo vão de viver.
+      
+      3
+      Teu coração já entrega
+      A quem te pode salvar;
+      E quem as dores carrega:
+      Cristo te pode livrar!
+      
+      4
+      Cristo te quer dar agora
+      Paz e descanso real;
+      Quer revelar-te esta hora:
+      Graça imensa e real.
+    ]
+  },
+  "82": {
+    "title": "Um Meigo Salvador",
+    "author": "S.N Samuel Nyström",
+    "value": [
+      1
+      Um Salvador meigo eu tenho,
+      A quem antes não conheci;
+      Agora, alegre, eu venho
+      Contando a todos que O vi.
+      
+      Todos, todos verão,
+      Todos, todos verão;
+      Jesus glorioso e bondoso,
+      Sim, todos, todos verão.
+      
+      2
+      De todos, é o mais formoso,
+      Imagem da glória de Deus;
+      Tornou-me alegre e ditoso,
+      E herdeiro da glória dos céus.
+      
+      3
+      Se os ímpios me armarem cilada.
+      Na senda que hei de trilhar,
+      Jesus me dará boa espada,
+      E os laços eu hei de cortar.
+      
+      4
+      A vida e o amor Tu me deste,
+      Porque Tu amaste a mim,
+      Tornou, sim, a glória celeste,
+      Minha sorte bendita, enfim.
+    ]
+  },
+  "83": {
+    "title": "Não Posso Explicar",
+    "author": "S.N Samuel Nyström",
+    "value": [
+      1
+      Mais perto de Jesus, procuro sempre eu chegar,
+      Mais belo que o ouro do sol nado é a Ti mirar.
+      Em pensamento, sonhos, tanta glória nunca vi;
+      Pois Ele é mais belo do que eu jamais previ!
+      
+      Não posso explicar
+      Quão meigo é Jesus;
+      Mas, face a face, no Teu lar,
+      Eu Te verei, Jesus!
+      
+      2
+      A estrela resplendente da manhã á minha luz;
+      O lírio dos vales é o bom Senhor Jesus;
+      Suave e doce é o cheiro que só vem de Ti;
+      Pois Ele é mais belo do que eu jamais previ!
+      
+      3
+      Se mágoas vêm me perturbar, o bálsamo Ele tem;
+      Me toma nos Seus braços e, assim, descanso bem;
+      Na cruz levou Jesus o meu pecado sobre Si;
+      Pois Ele é mais belo do que eu jamais previ!
+      
+    ]
+  },
+  "84": {
+    "title": "O Grande “Eu sou”",
+    "author": "J.R José Rodrigues",
+    "value": [
+      1
+      Não perturbeis o coração,
+      Porque Eu sempre sou fie!;
+      Eu fecho a boca do "leão",
+      Na cova estou com Daniel.
+      
+      Sou Eu aquele, o grande “EU SOU”
+      E, onde estais, também estou;
+      Não disse, Eu, há muito já:
+      “Pedi, pedi... dar-se-voa-á”?
+      Pedi com fé e com fervor
+      E vos darei o Consolador.
+      
+      2
+      Quem tem a fé de Abraão,
+      O mundo sempre há de vencer;
+      Quem quer ter firme o coração.
+      Precisa igualmente crer.
+      
+      3
+      Um terremoto e vento, após.
+      Do céu, um fogo e mui furor.
+      Ouviu Elias a minha voz,
+      Voz do Eterno, voz de amor.
+      
+      4
+      Um certo dia, Estêvão viu
+      O céu aberto e viu-me a mim;
+      Apedrejado, sucumbiu,
+      Mas foi fiel, até o fim.
+      
+      5
+      Firmado em Mim, Rocha Eternal,
+      Assim jamais o crente cai;
+      Buscai o dom celestial,
+      Que vem da casa de Meu Pai.
+    ]
+  },
+  "85": {
+    "title": "Deixai Entrar o Espírito de Deus",
+    "author": "F.V Frida Vingren",
+    "value": [
+      1
+      Do Santo Espírito, está escrito,
+      Que sois o templo, sim, templo de Deus;
+      Já recebestes, depois que crestes,
+      O dom glorioso descido do céu?
+      
+      Deixai entrar, para morar,
+      O Espírito de Deus;
+      Dom prometido, já concedido,
+      Bendito dom dos altos céus.
+      
+      2
+      O que vos salva, também vos lava,
+      P'ra vossa alma de manchas limpar;
+      Purificados de vis pecados,
+      O Santo Espírito já pode entrar.
+      
+      3
+      Ó peregrinos, vede o destino,
+      Entrai na terra de leite e mel,
+      Santificados, por Deus chamados,
+      Sereis guiados, por guia fiel.
+    ]
+  },
+  "86": {
+    "title": "Satisfeito com Cristo",
+    "author": "Desconhecido",
+    "value": [
+      1
+      Oh! 'stou satisfeito com Cristo,
+      Porque Ele minh’alma salvou;
+      E sobre o madeiro, sofrendo,
+      O Seu grande amor revelou.
+      
+      Oh! 'stou satisfeito com Cristo,
+      Confesso-O por meu Salvador:
+      Embora de nada ser digno,
+      Desfruto do Seu grande amor.
+      
+      2
+      Oh! 'stou satisfeito com Cristo,
+      De triste, tornei-me feliz,
+      Ouvindo o Seu santo Evangelho,
+      E crendo no que Ele me diz.
+      
+      3
+      Oh! 'stou satisfeito com Cristo,
+      E sei que vai logo voltar;
+      Virá com poder glorioso,
+      A fim de Seu povo levar.
+    ]
+  },
+  "87": {
+    "title": "Meu Testemunho",
+    "author": "S.N Samuel Nyström",
+    "value": [
+      1
+      Justificado estou;
+      Cristo Jesus me livrou;
+      Ele é meu Mediador,
+      Também, meu bom Salvador.
+      
+      Jesus, sou Teu, e Tu és meu;
+      Me guiarás para o céu;
+      Com graça e paz me satisfaz
+      Cristo, meu Mestre veraz.
+      
+      2
+      Santificado fiquei,
+      Quando a Ele roguei;
+      Ele me disse: tomai;
+      De minha graça usai.
+      
+      3
+      Fui redimido, também,
+      Obra do meu Sumo Bem;
+      Tudo de graça ganhei;
+      Nada por obras da lei.
+      
+      4
+      Ele a promessa me deu,
+      Do Guia santo do céu;
+      Também me disse: ficai,
+      E o batismo esperai.
+      
+      5
+      Quando a Ele busquei,
+      E batizado fiquei,
+      Línguas estranhas falei,
+      E meu Senhor exaltei.
+      
+      6
+      Agora, vou trabalhar,
+      E muitas almas ganhar;
+      Essas que Ele salvou
+      Quando na cruz expirou.
+      
+    ]
+  },
+  "88": {
+    "title": "Revela a Nós Senhor",
+    "author": "Desconhecido",
+    "value": [
+      1
+      Jesus, meu Rei, Mestre e Senhor,
+      O Teu amor revela a mim,
+      Enquanto eu aqui viver,
+      Até eu ver da vida o fim.
+
+      Revela a nós, Senhor Jesus, meu Salvador,
+      As maravilhas mil do Teu divino amor;
+      E com veraz louvor, fervente gratidão;
+      Eleva a TI, Jesus Senhor, o nosso coração.
+      
+      2
+      As bênçãos mil do Teu amor,
+      Qual esplendor me cercarão;
+      O Teu olhar será, Jesus,
+      A grata luz do coração.
+      
+      3
+      Sorrisos Teus verei brilhar,
+      Se não andar no mundo vil:
+      Desfrutarei prazer veraz,
+      Tempo de paz primaveril.
+      
+      4
+      E, quando for no céu morar,
+      E descansar dos dias meus,
+      Feliz viver receberei
+      De Ti, meu Rei, meu santo Deus!
+      
+    ]
+  },
+  "89": {
+    "title": "Sublime e Grande Amor",
+    "author": "M.S.B Manuel Sabino Bezerra",
+    "value": [
+      1
+      Conta-me, sim, de Jesus,
+      Para na mente, eu gravar
+      Como foi que padeceu
+      Na cruz, pra me libertar:
+      A Sua paixão e morte,
+      A começar no jardim,
+      Não houve mais quem tivesse
+      Um sofrimento assim!
+
+      Só amor! Só amor!
+      Só amor! Sublime e grande amor!
+      
+      2
+      Conta-me como sentiu
+      A rude morte na cruz,
+      Suportando a acusação
+      Dos inimigos da luz;
+      Conta-me como tem dado
+      Ao malfeitor Sua paz,
+      Dizendo: "Hoje, comigo,
+      No Paraíso estarás".
+      
+      3
+      Conta-me como chorou,
+      Falando a Jerusalém;
+      Profetas fazes morrer,
+      Quando a ti eles vêm;
+      Conta-me como inda chora,
+      Por causa do pecador,
+      Que não quer Seu Evangelho,
+      Proclamado com amor.
+      
+      4
+      Conta-me como o Senhor
+      Um bom testemunho deu.
+      Satisfazendo a lei,
+      Quando o cálice bebeu;
+      Também disse estas palavras,
+      Com Seu tão profundo amor;
+      Pai, lhes perdoa a cegueira,
+      Que é própria do pecador.
+      
+      5
+      Conta-me como, também,
+      Veio ao povo judeu,
+      Povo que tanto amou,
+      Querendo dar-lhe os céus;
+      Como inda hoje Ele ama
+      A todo o pecador,
+      Dando-lhe paz e descanso,
+      Pelo Evangelho de amor.
+    ]
+  },
+  "90": {
+    "title": "Há Paz e Alegria",
+    "author": "A.T.G Antônio Torres da Silva",
+    "value": [
+      1
+      Há paz e alegria no reino da luz;
+      Á pátria dos remidos, Jesus nos conduz,
+      No reino dos céus há gozo e paz;
+      Os filhos de Deus têm poder veraz.
+      
+      2
+      Há paz e alegria no reino dos céus;
+      Os salvos lá entoam louvores a Deus;
+      Dai glória a Jesus! Porque nos amou;
+      Por nós o Seu sangue Ele derramou!
+      
+      3
+      Jesus tem prometido o Consolador!
+      O Espírito Santo, o instruidor;
+      Também prometeu, no reino dos céus,
+      Um santo lugar, junto ao nosso Deus.
+      
+      4
+      Firmado na promessa tão grande e eficaz,
+      Agora neste mundo desfruto a paz;
+      Espero Jesus, nas nuvens descer,
+      E na Sua glória me receber.
+    ]
+  },
+  "91": {
+    "title": "Nívea Luz",
+    "author": "J.H.N Justus H. Nelson",
+    "value": [
+      1
+      Jesus, eu almejo a pureza do céu,
+      Tua linda presença no coração meu
+      Os ídolos quebro, me toma Jesus;
+      Ó dá-me a pureza da nívea luz.
+      
+      Nívea luz, a nívea luz,
+      Ó dá-me a pureza da nívea luz.
+      
+      2
+      Jesus, me acode enquanto lidar,
+      A colocar tudo no santo altar;
+      A Ti me entrego; nas chamas me pus;
+      Ó dá-me a pureza da nívea luz!
+      
+      3
+      Jesus, com instância, humilde, roguei
+      Que o sangue perfeito pureza me dê;
+      Me lava na fonte aberta na cruz
+      Ó dá-me a pureza da nívea luz!
+      
+      4
+      Jesus, neste instante, espero a mão
+      Que há de criar-me o bom coração;
+      Aqueles que o Espírito pedem de Deus,
+      Dás sempre a pureza da nívea luz!
+    ]
+  },
+  "92": {
+    "title": "O Bondoso Salvador",
+    "author": "S.N Samuel Nyström",
+    "value": [
+      1
+      Meu bondoso Salvador
+      Meus pecados carregou;
+      Foi Jesus, o Redentor,
+      Que da morte me livrou.
+      
+      Oh! Que Salvador eu tenho!
+      O Seu sangue me remiu,
+      Quando, sobre o rude lenho,
+      Meu castigo Ele cumpriu.
+      
+      2
+      Oh! Que amor do meu Jesus,
+      Que em homem se encarnou,
+      Pra sofrer por mim, na cruz;
+      E meus crimes perdoou.
+      
+      3 Não há outro nome igual
+      Ao bom nome de Jesus,
+      Porque livra-me do mal
+      E à glória me conduz.
+      
+      4
+      Com Jesus, alegre, vou
+      Sua graça publicar,
+      Porque Ele me chamou
+      Na Sua vinha a trabalhar.
+    ]
+  },
+  "93": {
+    "title": "Há Trabalho Pronto",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      1
+      Há trabalho pronto para ti, cristão;
+      Que demanda toda a tua devoção;
+      Vem, alegremente, a Cristo obedecer,
+      Pois só tu, ó crente, o poderás fazer!
+      
+      Por Jesus a trabalhar,
+      Prontamente, fielmente, trabalhar!
+      Em Servi-Lo, que prazer!
+      E só tu, ó crente, o poderás fazer.
+      
+      2
+      Para cada crente, o Mestre preparou
+      Um trabalho certo, quando o resgatou,
+      O trabalho a que Jesus te chama aqui.
+      Como será feito, se não for por ti?
+      
+      3
+      Pode ser humilde, mas se for p'ra Deus,
+      Ele é contemplado lá dos altos céus.
+      E o esforço feito não será em vão
+      Se tiver de Cristo, plena aprovação!
+      
+      4
+      Quantos há perdidos, sem a salvação!
+      Quantos que precisam de consolação!
+      Como Cristo os ama, fá-los entender,
+      Pois só tu, á crente, o poderás fazer!
+    ]
+  },
+  "94": {
+    "title": "Na Jerusalém de Deus",
+    "author": "O.N Otto Nelson",
+    "value": [
+      1
+      Quando a luta desta vida
+      Trabalhosa se findar,
+      O adeus a este mundo vamos dar;
+      Para o céu então iremos,
+      Com Jesus nos encontrar
+      Na Jerusalém de Deus.
+      
+      Oh! que gozo e alegria,
+      Quando o povo ali chegar,
+      Em Jerusalém! Em Jerusalém!
+      Sempre ali cantando hosanas,
+      Pois o Rei no trono esta,
+      Na Jerusalém de Deus.
+      
+      2
+      O caminho é extenso,
+      Mas Jesus vai me guiar,
+      Quando, pelas provações aqui passar;
+      Pois olhando nEle, eu sigo.
+      Para brevemente estar,
+      Na Jerusalém de Deus.
+      
+      3
+      Ao sairmos deste mundo,
+      Para a divina! mansão,
+      Gozaremos a perfeita salvação;
+      E Jesus contemplaremos
+      A estender-nos Sua mão,
+      Na Jerusalém de Deus.
+      
+      4
+      Quando, unidos com os salvos,
+      Lá na pátria do Senhor,
+      Contemplarmos a Jesus, o Salvador,
+      Sempre nos alegraremos
+      Onde há perfeito amor;
+      Na Jerusalém de Deus.
+    ]
+  },
+  "95": {
+    "title": "Ouve, ó Pecador",
+    "author": "J.F José Felinto",
+    "value": [
+      1
+      Ouve, ouve, ó pecador!
+      Ouve bem, presta atenção
+      A Jesus, o Salvador,
+      Que do céu trouxe o perdão;
+      Ouve a Sua meiga voz;
+      Digna é de aceitação.
+      
+      2
+      Ouve o que diz o Senhor,
+      Por Sua mensagem de amor;
+      "Será livre de temor
+      Todo que vier a Mim”;
+      Vem a Cristo, Salvador,
+      E aceita o Seu amor.
+      
+      3
+      Ouve, ouve, ó pecador!
+      E medita com atenção;
+      Deixa o mundo enganador;
+      De Jesus, terás perdão;
+      Ele diz: “Quem crer em Mim,
+      Há de ter a Salvação”.
+      
+      4
+      Ouvi já, amigos meus,
+      Não tenhais hesitação;
+      Vinde ao Filho, sim, de Deus;
+      Dai-Lhe o vosso coração;
+      Ele diz: “Quem crer em Mim,
+      Não terá condenação”.
+      
+    ]
+  },
+  "96": {
+    "title": "Deixa Penetrar a Luz",
+    "author": "J.R José Rodrigues",
+    "value": [
+      1
+      Se ao inimigo temes combater,
+      Se estás em trevas e não tens poder,
+      Que a formosa luz de Deus fulgure em ti;
+      E serás feliz assim.
+      
+      Deixa penetrar a luz!
+      Deixa penetrar a luz!
+      Que a formosa luz de Deus fulgure em ti;
+      E serás felIz assim.
+      
+      2
+      Se a tua fé é fraca no Senhor,
+      E não mostras fruto ou nenhum fervor,
+      Que a formosa luz de Deus fulgure em ti
+      E serás feliz assim.
+      
+      3
+      Se na luz estamos, que divina luz!
+      Se nos limpa sempre o sangue de Jesus,
+      Temos claridade em nosso coração,
+      E vivemos nós na luz.
+      
+      4
+      Se de Deus, o Espírito Consolador,
+      Traz a luz do céu, divino resplendor,
+      Penetrando Ele, no teu coração.
+      Viverás então de amor.
+      
+      5
+      Se alegre fores à mansão sem par,
+      Ó enfrenta as trevas, que vão se afastar,
+      Que a formosa luz de Deus fulgure em ti,
+      E serás feliz assim.
+    ]
+  },
+  "97": {
+    "title": "Há um Caminho Santo",
+    "author": "F.V Frida Vingren",
+    "value": [
+      1
+      Há um caminho santo, ao céu de plena luz,
+      As vezes espinhoso, à glória nos conduz;
+      E o caminho certo pra todo pecador;
+      Jesus é o Salvador, Jesus é o Salvador.
+      
+      2
+      Há paz inabalável pra quem está na luz;
+      Por preço incomparável
+      comprou-me a mim Jesus
+      O dom do Pai amado minh'alma satisfaz,
+      Jesus é minha paz, Jesus é minha paz.
+      
+      3
+      Há um poder que sara o triste coração,
+      Que dá alívio à alma, paz e consolação,
+      E guarda minha veste, também, em nívea luz;
+      Poder de meu Jesus, poder de meu Jesus!
+      
+      4
+      Há um fim glorioso, além do escuro véu;
+      No fim do espinhoso caminho está o céu;
+      E quando for tirado o véu da escuridão,
+      Verei Jesus, então, verei Jesus, então.
+      
+    ]
+  },
+  "98": {
+    "title": "",
+    "author": "A.S Almeida Sobrinho",
+    "value": [
+      1
+      Estarás tu vigiando, quando Jesus Vier?
+      Ansioso, esperando, quando Jesus vier?
+      
+      Oh! Que noite! Solene noite!
+      Brilhará a tua luz, quando Jesus vier?
+      Ó, sê pronto, ó, sê pronto!
+      Ó, sê pronto, quando Jesus vier.
+      Ó, sê pronto, ó sê pronto!
+      Ó sê pronto, quando Jesus vier!
+      
+      2
+      Ouvirás tu o bem-vindo, quando Jesus vier?
+      Darás o brado sorrindo, quando Jesus vier?
+      
+      3
+      Só esperas preparar-te, quando Jesus vier?
+      Qual será a tua parte, quando Jesus vier?
+      
+      4
+      Estarás tu jubiloso, quando Jesus vier?
+      Triste ou esperançoso quando Jesus vier?
+      
+      5
+      Oh! Que culto glorioso, quando Jesus vier!
+      Cheio de sublime gozo, quando Jesus vier!
+    ]
+  },
+  "99": {
+    "title": "Eis o Dia a Declinar",
+    "author": "H.M.W H. Maxwell Wrigth",
+    "value": [
+      1
+      Eis o dia a declinar,
+      Nos convida a meditar
+      No Teu grande insigne amor,
+      Ó bendito Salvador,
+      E te louvar!
+      
+      Santo! Santo! Santo Senhor dos céus
+      Toda terra louve a TI;
+      No céu, tudo adore a TI,
+      Bondoso Deus!
+      
+      2
+      Glorioso no poder!
+      Infinito no saber!
+      A mais plena perfeição
+      Na justiça e no perdão
+      Nos fazes ver!
+      
+      3
+      Na profunda escuridão,
+      Ouve a nossa petição,
+      Vem teus filhos proteger,
+      E seguros sempre os ter
+      Na Tua mão.
+      
+      4
+      Quando tudo, enfim, passar,
+      Céus, estrelas, terra e mar,
+      Pela cruz do Salvador,
+      Faz-nos no Teu grande amor,
+      Contigo estar!
+    ]
+  },
+  "100": {
+    "title": "O Bom Consolador",
+    "author": "P.L.M Paulo Leivas Macalão",
+    "value": [
+      1
+      Quem quer ir, por Jesus, a nova proclamar
+      Nos antros de aflição, misérias, mal e dor?
+      Cristãos, anunciai que o Pai quer derramar
+      O bom Consolador.
+      
+      O bom Consolador, o bom Consolador
+      Que Deus nos prometeu, ao mundo Já desceu;
+      Ó Ide proclamar, que Deus quer derramar
+      O bom Consolador.
+      
+      2
+      No mundo de horror, a luz, enfim, brilhou
+      Que veio dissipar as sombras de terror;
+      Também o nosso Pai, aos Seus fiéis mandou
+      O bom Consolador.
+      
+      3
+      É o Consolador que traz a salvação
+      Aos que aprisionou o grande tentador:
+      Dizei que veio já, com todo o coração,
+      O bom Consolador.
+      
+      4
+      Oh! Grande eterno amor! Oh! Gozo divina!!
+      Que tenho em proclamar o dom de meu Senhor
+      Pois mora já em mim, poder celestial,
+      O bom Consolador.
+    ]
+  },
+  "101": {
     "title": "",
     "author": "",
-    "value": []
+    "value": [
+      
+    ]
   }
 }
